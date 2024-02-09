@@ -1,0 +1,28 @@
+git config --global user.name Ankush  -->  to set user
+git config --global user.email ankushbhutad86@gmail.com  --> to Add email of the user 
+code . -->  to open visual code 
+git init -->  to initializing the git
+ls -lart --> to see the folders
+git status  -->  to check if new file added to repo
+
+make changes in file 
+
+git push --> to push the file in repo
+git add . -- > to add the file in current folder of repo
+git add -A --> we can use -A also
+git commit -m "any message" --> to commit 
+
+
+touch -- to create any blank file
+
+git checkout 
+git checkout -f --->  to get all the files from last commit 
+
+git log -->  to get the logs
+
+git log -p -5 -->  last 5 logs
+
+git diff --> will show the difference between working and stagin area
+
+git diff -- staged
+
