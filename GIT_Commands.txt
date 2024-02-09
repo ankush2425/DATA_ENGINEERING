@@ -9,4 +9,8 @@ make changes in file
 
 git push --> to push the file in repo
 git add . -- > to add the file in current folder of repo
+git add -A --> we can use -A also
 git commit -m "any message" --> to commit 
+
+
+touch -- to create any blank file
