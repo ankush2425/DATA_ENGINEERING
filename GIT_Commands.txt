@@ -4,6 +4,9 @@ code . -->  to open visual code
 git init -->  to initializing the git
 ls -lart --> to see the folders
 git status  -->  to check if new file added to repo
-git push -->
-git add -- > to add the files
-git commit --> to commit 
+
+make changes in file 
+
+git push --> to push the file in repo
+git add . -- > to add the file in current folder of repo
+git commit -m "any message" --> to commit 
